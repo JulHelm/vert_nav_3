@@ -98,7 +98,7 @@ label #cancel {
 }
 
 section {
-    background: url(leafs.png) no-repeat;
+    background: url("https://placeimg.com/1000/1000/tech") no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
